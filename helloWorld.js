@@ -1,10 +1,10 @@
 //PRINT 'Hello, World!' IN JAVASCRIPT
 
 // For the alert box
-alert('Hello, World!');
+//alert('Hello, World!');
 
 // For writing in Console
 console.log('Hello, World!');
 
 // For writing in the document
-document.write('Hello, World!');
+//document.write('Hello, World!');
