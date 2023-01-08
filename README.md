@@ -1,2 +1,2 @@
-Hello, I am Rahul. 
-This is my the beginning of a new journey into Git & Github. 
+Hello, I am Rahul. I am a BTech sophomore with a keen interest & curiosity for ever-evolving & fascinating world of technology.
+And this is the beginning of a new journey into the world of Git & Github. 
